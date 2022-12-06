@@ -33,7 +33,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=guomaoqiu&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guomaoqiu&show_icons=true&theme=synthwave)
+
 <!--
 - 🌱 最近打算跳槽，有需要人手的可以撩我哈😁【四川成都-Linux运维开发工程师】
 -->
