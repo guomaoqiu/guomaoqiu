@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 
 <!--
 - 🌱 最近打算跳槽，有需要人手的可以撩我哈😁【四川成都-Linux运维开发工程师】
--->
-- 🤔 RHCE、CKA、DevOps、Linux、Python、Kubernetes、Docker、Shell、Flask、Git、Jenkins/CI-CD、SRE...
+
+- 🤔 RHCE、CKA、DevOps、Linux、Python、Kubernetes、Docker、Shell、Flask、Git、Jenkins/CI-CD、SRE...-->
