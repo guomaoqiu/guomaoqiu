@@ -35,7 +35,6 @@
 ![Profile View](https://komarev.com/ghpvc/?username=guomaoqiu&style=flat-square&color=7c3aed)
 ![Followers](https://img.shields.io/github/followers/guomaoqiu?style=flat-square&logo=github&color=7c3aed)
 ![Stars](https://img.shields.io/github/stars/guomaoqiu?style=flat-square&logo=github&color=7c3aed)
-![Repos](https://img.shields.io/github/repos/guomaoqiu?style=flat-square&logo=github&color=7c3aed)
 
 </div>
 
