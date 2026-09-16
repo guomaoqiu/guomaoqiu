@@ -39,9 +39,6 @@
 
 </div>
 
-<!-- GitHub 2024 原生贡献图，渲染在 README，不需 token -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=guomaoqiu&theme=github-compact&bg_color=ffffff&color=7c3aed&line=7c3aed&point=64748b&area=true&hide_border=true&area_color=7c3aed" width="100%" alt="GitHub Activity Graph"/>
-
 ---
 
 ## 📌 精选项目
