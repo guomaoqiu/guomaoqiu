@@ -6,7 +6,7 @@
 
 🛠 监控系统 · CI/CD · 基础设施维护 · 标准化建立
 ✍️ [blog.sctux.cc](https://blog.sctux.cc/) · 故障复盘 / 技术总结 / 学习记录
-📫 [TG @NoardOps](https://t.me/NoardOps) · [GitHub @guomaoqiu](https://github.com/guomaoqiu)
+📫 [TG @NoardOps](https://t.me/NoardGhost_99) · [GitHub @guomaoqiu](https://github.com/guomaoqiu)
 
 </div>
 
@@ -63,7 +63,7 @@
 ## 🤝 联系我
 
 - **博客：** [blog.sctux.cc](https://blog.sctux.cc/)
-- **Telegram：** [@NoardOps](https://t.me/NoardOps)
+- **Telegram：** [@NoardOps](https://t.me/NoardGhost_99)
 - **邮箱：** 通过 GitHub Issue 联系
 
 <div align="center">
