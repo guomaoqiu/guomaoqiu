@@ -63,7 +63,7 @@
 ## 🤝 联系我
 
 - **博客：** [blog.sctux.cc](https://blog.sctux.cc/)
-- **Telegram：** [@NoardOps](https://t.me/NoardGhost_99)
+- **Telegram：** [@NoardGhost_99](https://t.me/NoardGhost_99)
 - **邮箱：** 通过 GitHub Issue 联系
 
 <div align="center">
